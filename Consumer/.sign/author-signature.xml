@@ -1,0 +1,118 @@
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="AuthorSignature">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"></CanonicalizationMethod>
+<SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"></SignatureMethod>
+<Reference URI="config.xml">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>BS7VkW45ipB/FbD1yxzC9Yruy2f++Y1B+liWzQI8N9A=</DigestValue>
+</Reference>
+<Reference URI="css%2Fstyle.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>p39HNSGKSzRDqAltpFcPO57t9GVvzZSKK9EvHp3mt7c=</DigestValue>
+</Reference>
+<Reference URI="icon.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>vPjxjOppORd6hn9Bw4sh06gqtDoJzoFbV/8e9FyIdvk=</DigestValue>
+</Reference>
+<Reference URI="images%2FThumbs.db">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>EKvCP29sjv2iJwREOnIZE9QtuezWn5Grw43x5/gCRu4=</DigestValue>
+</Reference>
+<Reference URI="images%2Fexit.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>l+9RCp2Z6M/noPQRyvWDbDpQtxVyX046JjMBTk799lQ=</DigestValue>
+</Reference>
+<Reference URI="images%2Fnext.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>w4OgXUZ+ifl+I3Fgrhksh5XDqdRSSJbjqsXASBVwRoA=</DigestValue>
+</Reference>
+<Reference URI="images%2Fpause.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>98spscDF/SjeCfBIGWL6Y+XOHxiaIekLYlyy1UvVVD4=</DigestValue>
+</Reference>
+<Reference URI="images%2Fplay.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>3lSliSKBgP/5b50Vec7Xv0K//hcCvk68iwhgvMj4na0=</DigestValue>
+</Reference>
+<Reference URI="images%2Fprev.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>iH18ewfr5w8BaR80C2WYCEXPuQfcV+ndSLWcQY9Kkr8=</DigestValue>
+</Reference>
+<Reference URI="images%2Fvolume0.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>F1yhpEXTpbAaprqQW4WjjaaQczkyx9jUyUruNtR3cCg=</DigestValue>
+</Reference>
+<Reference URI="images%2Fvolume100.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>0FIzwCVmdW+jLL8s6Jn2j8IUqvP1wESi3xSp7lDbmIE=</DigestValue>
+</Reference>
+<Reference URI="images%2Fvolume33.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>pSc4UNIUvcIkzIB99EQ6lbN4K3R4YHfY41ekPE3kNbY=</DigestValue>
+</Reference>
+<Reference URI="images%2Fvolume66.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>jmihk2jC9djciWFzMluS9saE1SR3BXuunhzEp4YZpV0=</DigestValue>
+</Reference>
+<Reference URI="index.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>hRw2X5CNYly3uuCvpNGEHT/4JNYU6myMgUvJETe4NuA=</DigestValue>
+</Reference>
+<Reference URI="js%2Fmain.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>iKbY5cdoU7TL8IiIjsdGyWkk9Yd5RxSQoQxM/MwdJNk=</DigestValue>
+</Reference>
+<Reference URI="res%2Fxml%2Faccessoryservices.xml">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>YLQxB0HqeYfCOZrFMz3TI0s47JhYLqQf5hkW0/0tMeY=</DigestValue>
+</Reference>
+<Reference URI="#prop">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/2006/12/xml-c14n11"></Transform>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lpo8tUDs054eLlBQXiDPVDVKfw30ZZdtkRs1jd7H5K8=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+EOFfXI2vTFIDTQB8iwsnRemPptA8k6H4ffDQwIgJzZM3Sg1Ts+xgEX5JtBpN690Oz+RGh0dI8/bK
+ovTM1iSGi+0fp4o9PoTz/DNokS6zycJCzUlMJ97ozb5qThRw3bXPvEwCynqMGjnDfkguykx5dhTu
+TQKixF/YP+9zKV+ZzkE=
+</SignatureValue>
+<KeyInfo>
+<X509Data>
+<X509Certificate>
+MIIClTCCAX2gAwIBAgIGAVHGh9Q4MA0GCSqGSIb3DQEBBQUAMFYxGjAYBgNVBAoMEVRpemVuIEFz
+c29jaWF0aW9uMRowGAYDVQQLDBFUaXplbiBBc3NvY2lhdGlvbjEcMBoGA1UEAwwTVGl6ZW4gRGV2
+ZWxvcGVycyBDQTAeFw0xMjExMDEwMDAwMDBaFw0xOTAxMDEwMDAwMDBaMBExDzANBgNVBAMMBmF1
+dGhvcjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAtbo/mwEm+rjRmswbr8aR6RvM+z6kalWs
+FzKPfoBohQyds8hghl6MTaLOQWChFbk8C+FKl9tDv5XAn9+I74yxUlTDyBaM61lrh59QfcgnZIk+
+tWThMUeDYsd79xNfBgcDpgeJUAYETSR74ii6pvoZASlZd7VVWplT7DrBeqEGodECAwEAAaMyMDAw
+DAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCB4AwEwYDVR0lBAwwCgYIKwYBBQUHAwMwDQYJKoZIhvcN
+AQEFBQADggEBAFEhrFnsPirR6RyytMBbZW/tvZPP3G2zBCwP1wo0H+sjV0gvUc4vDKHGSJAWqtTl
+Xa+1CUdb4l2Ce0Q7Tsg/unQwpPzCn13OkXv/pfkwPZFeDCTY9z8sXCQ1J+ZpZE047brLZMU7wqHp
+Zp8RhHblNnOrpBYoRmfCrufTJIwK28NTQb2U3JPjkLpoQ/l5velROL+zBwa/ewobNyuP8jYZnn8T
+yQi+nQWArimQrvMVL9AmMYwJ+2XUGneMdXMJZisFvvirhQdc190vF6oGhVG/QxajAxFmx74oynjw
+0n7Dtppp3WMsOwvs3YTIAQnhEpjZxgWCH2YeozT25ZUTQeI9gCI=
+</X509Certificate>
+<X509Certificate>
+MIIDOTCCAiGgAwIBAgIBATANBgkqhkiG9w0BAQUFADBYMRowGAYDVQQKDBFUaXplbiBBc3NvY2lh
+dGlvbjEaMBgGA1UECwwRVGl6ZW4gQXNzb2NpYXRpb24xHjAcBgNVBAMMFVRpemVuIERldmVsb3Bl
+cnMgUm9vdDAeFw0xMjAxMDEwMDAwMDBaFw0yNzAxMDEwMDAwMDBaMFYxGjAYBgNVBAoMEVRpemVu
+IEFzc29jaWF0aW9uMRowGAYDVQQLDBFUaXplbiBBc3NvY2lhdGlvbjEcMBoGA1UEAwwTVGl6ZW4g
+RGV2ZWxvcGVycyBDQTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANVGhRGmMIUyBA7o
+PCz8Sxut6z6HNkF4oDIuzuKaMzRYPeWodwe9O0gmqAkToQHfwg2giRhE5GoPld0fq+OYMMwSasCu
+g8dwODx1eDeSYVuOLWRxpAmbTXOsSFi6VoWeyaPEm18JBHvZBsU5YQtgZ6Kp7MqzvQg3pXOxtajj
+vyHxiatJl+xXrHgcXC1wgyG3buty7u/Fi2mvKXJ0PRJcCjjK81dqe/Vr20sRUCrbk02zbm5ggFt/
+jIEhV8wbFRQpliobc7J4dSTKhFfrqGM8rdd54LYhD7gSI1CFSe16pUXfcVR7FhJztRaiGLnCrwBE
+dyTZ248+D4L/qR/D0axb3jcCAwEAAaMQMA4wDAYDVR0TBAUwAwEB/zANBgkqhkiG9w0BAQUFAAOC
+AQEAnOXXQ/1O/QTDHyrmQDtFziqPY3xWlJBqJtEqXiT7Y+Ljpe66e+Ee/OjQMlZe8gu21/8cKklH
+95RxjopMWCVedXDUbWdvS2+CdyvVW/quT2E0tjqIzXDekUTYwwhlPWlGxvfj3VsxqSFq3p8Brl04
+1Gx5RKAGyKVsMfTLhbbwSWwApuBUxYfcNpKwLWGPXkysu+HctY03OKv4/xKBnVWiN8ex/Sgesi0M
++OBAOMdZMPK32uJBTeKFx1xZgTLIhk45V0hPOomPjZloiv0LSS11eyd451ufjW0iHRE7WlpR6EvI
+W6TFyZgMpQq+kg4hWl2SBTf3s2VI8Ygz7gj8TMlClg==
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+<Object Id="prop"><SignatureProperties xmlns:dsp="http://www.w3.org/2009/xmldsig-properties"><SignatureProperty Id="profile" Target="#AuthorSignature"><dsp:Profile URI="http://www.w3.org/ns/widgets-digsig#profile"></dsp:Profile></SignatureProperty><SignatureProperty Id="role" Target="#AuthorSignature"><dsp:Role URI="http://www.w3.org/ns/widgets-digsig#role-author"></dsp:Role></SignatureProperty><SignatureProperty Id="identifier" Target="#AuthorSignature"><dsp:Identifier></dsp:Identifier></SignatureProperty></SignatureProperties></Object>
+</Signature>
