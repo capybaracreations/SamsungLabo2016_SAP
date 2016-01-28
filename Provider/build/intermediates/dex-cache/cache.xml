@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Patryk\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\Patryk\Desktop\GearPlayer\Provider\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-8db06f1152716b1f2cc9cb63367a710f02322959.jar" />
+    </item>
+    <item
+        jar="C:\Users\Patryk\Desktop\GearPlayer\Provider\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Patryk\Desktop\GearPlayer\Provider\app\build\intermediates\pre-dexed\debug\classes-e4b746f62d262d1cce52744e9ef13af9dc37e31b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Patryk\Desktop\GearPlayer\Provider\app\libs\eventbus-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="C:\Users\Patryk\Desktop\GearPlayer\Provider\app\build\intermediates\pre-dexed\debug\eventbus-2.4.0-d1b4e74ae23300aeeae7b2793bf558aeed3977d0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Patryk\Desktop\GearPlayer\Provider\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\Patryk\Desktop\GearPlayer\Provider\app\build\intermediates\pre-dexed\debug\classes-0363094414ca567d77429654e98cad548ed35028.jar" />
+    </item>
+    <item
+        jar="C:\Users\Patryk\Desktop\GearPlayer\Provider\app\libs\accessory-v2.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e538a7dcdba71b14a502832ba066daf8fa2a226c">
+        <dex dex="C:\Users\Patryk\Desktop\GearPlayer\Provider\app\build\intermediates\pre-dexed\debug\accessory-v2.3.0-705d20e32f5cdd2f7218b7c2a8d8b465c14ae930.jar" />
+    </item>
+    <item
+        jar="C:\Users\Patryk\Desktop\GearPlayer\Provider\app\libs\sdk-v1.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e2ce3786b6e9519934c4a54aaaaf39525bf4486c">
+        <dex dex="C:\Users\Patryk\Desktop\GearPlayer\Provider\app\build\intermediates\pre-dexed\debug\sdk-v1.0.0-ada552ac9caa17965e48b9893a53cba882b0bcc5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Patryk\Desktop\GearPlayer\Provider\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Patryk\Desktop\GearPlayer\Provider\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-d3ad876e2fb79bf5dbe9523679a8ef40851bee1c.jar" />
+    </item>
+
+</items>

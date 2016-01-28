@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GearPlayerProvider</string>
+    <string name="hello_world">Gear Player</string>
+    <string name="ConnectionAcceptedMsg">GearPlayerConsumer connected!</string>
+    <string name="ConnectionEstablishedMsg">GearPlayerConsumer connection established.</string>
+    <string name="ConnectionTerminateddMsg">GearPlayerConsumer terminated.</string>
+    <string name="ConnectionAlreadyExist">GearPlayerConsumer connection already exists!</string>
+    <string name="ConnectionAlreadyDisconnected">GearPlayerConsumer connection already disconnected!!!</string>
+    <string name="InstallSASDK">You need to install Samsung Accessory SDK to use this application.</string>
+    <string name="UpdateSASDK">You need to update Samsung Accessory SDK to use this application.</string>
+    <string name="RecommendUpdateSASDK">We recommend that you update your Samsung Accessory SDK before using this application.</string>
+    <string name="title_activity_main">MainActivity</string>
+
+</resources>
