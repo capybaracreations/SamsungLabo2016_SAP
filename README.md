@@ -2,8 +2,8 @@ Samsung Labo 2016
 
 Patryk Krawczyk
 
-SAP, sterowanie playerem za pomoca zegarka
+Samsung Accessory Protocol - controlling music playback with smartwatch
 
-Consumer - Tizen - Zegarek
+Consumer - Tizen - Watch
 
 Provider - Android
